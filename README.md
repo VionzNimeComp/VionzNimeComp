@@ -115,12 +115,12 @@ me.say_hi()
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=VionzNimeComp&show_icons=true&theme=radical&hide_border=true&title_color=FF77FF&icon_color=FF77FF&text_color=ffffff&bg_color=0d0d0d" height="165"/>
-<img src="https://streak-stats.demolab.com?user=VionzNimeComp&theme=radical&hide_border=true&background=0D0D0D&ring=FF77FF&fire=FF77FF&currStreakLabel=FF77FF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VionzNimeComp&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VionzNimeComp&theme=radical&hide_border=true" width="49%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VionzNimeComp&layout=compact&theme=radical&hide_border=true&title_color=FF77FF&text_color=ffffff&bg_color=0d0d0d" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VionzNimeComp&layout=compact&theme=radical&hide_border=true" width="50%"/>
 
 </div>
 
