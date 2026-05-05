@@ -115,7 +115,7 @@ me.say_hi()
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=VionzNimeComp&theme=radical&hide_border=true&ring=FF77FF&fire=FF77FF&currStreakLabel=FF77FF" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=VionzNimeComp&theme=radical&hide_border=true&ring=FF77FF&fire=FF77FF&currStreakLabel=FF77FF" width="100%"/>
 
 </div>
 
