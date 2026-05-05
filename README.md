@@ -111,16 +111,13 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VionzNimeComp&bg_color=0d0d0d&color=FF77FF&line=FF77FF&point=FFFFFF&area=true&hide_border=false&border_color=FF77FF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VionzNimeComp&bg_color=0d0d0d&color=FF77FF&line=FF77FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=VionzNimeComp&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VionzNimeComp&theme=radical&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VionzNimeComp&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VionzNimeComp&layout=compact&theme=radical&hide_border=true" width="50%"/>
+<img src="https://streak-stats.demolab.com?user=VionzNimeComp&theme=radical&hide_border=true&ring=FF77FF&fire=FF77FF&currStreakLabel=FF77FF" width="48%"/>
 
 </div>
 
