@@ -10,8 +10,8 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-VionzNimeComp-181717?style=for-the-badge&logo=github)](https://github.com/VionzNimeComp)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:vionznime@lolicum.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/6281912168071)
 
 </div>
 
