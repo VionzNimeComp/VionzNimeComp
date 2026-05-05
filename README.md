@@ -115,8 +115,6 @@ me.say_hi()
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=VionzNimeComp&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-
 <img src="https://streak-stats.demolab.com?user=VionzNimeComp&theme=radical&hide_border=true&ring=FF77FF&fire=FF77FF&currStreakLabel=FF77FF" width="48%"/>
 
 </div>
